@@ -1,15 +1,15 @@
-#wall .tag-1 {
-  display: none;
-}
+/*#wall .tag-1 {*/
+/*  display: none;*/
+/*}*/
 
 
-#wall .tag-1 + #tag-2 {
-  display: none;
-}
+/*#wall .tag-1 + #tag-2 {*/
+/*  display: none;*/
+/*}*/
 
-.parent #tag-4 {
-  display: none;
-}
+/*.parent #tag-4 {*/
+/*  display: none;*/
+/*}*/
 
 
 #tag-5 {
