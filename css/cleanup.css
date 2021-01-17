@@ -1,6 +1,3 @@
-#wall .tag {
-  display: none;
-}
 
 #wall .tag-1 + #tag-2 {
   display: none;
